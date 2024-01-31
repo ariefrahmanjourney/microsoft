@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap" rel="stylesheet">
+    <title>Document</title>
+    <style>
+    html,body{
+        margin:0;
+        padding:0;
+        font-family: 'Rubik Maps', system-ui;
+        font-size: 2rem;
+    }
+    .wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    }
+    .item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="item">
+            Microsoft
+        </div>
+    </div>
+</body>
+
+</html>
